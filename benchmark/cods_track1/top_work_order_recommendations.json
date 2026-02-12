@@ -1,0 +1,15 @@
+{
+    "equipment_id": "CU02009",
+    "work_order_recommendations": [
+        {
+            "category": "External Influences",
+            "primary_code": "EX001",
+            "primary_code_description": "Environmental Impact"
+        },
+        {
+            "category": "Human Factors",
+            "primary_code": "H001",
+            "primary_code_description": "Human Error"
+        }
+    ]
+}

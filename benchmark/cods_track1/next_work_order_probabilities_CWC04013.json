@@ -1,0 +1,54 @@
+[
+    {
+        "failure_code": "MT001",
+        "probability": 0.4473684210526316
+    },
+    {
+        "failure_code": "MT010",
+        "probability": 0.21052631578947367
+    },
+    {
+        "failure_code": "MT004",
+        "probability": 0.15789473684210525
+    },
+    {
+        "failure_code": "MT013",
+        "probability": 0.10526315789473684
+    },
+    {
+        "failure_code": "MT008",
+        "probability": 0.05263157894736842
+    },
+    {
+        "failure_code": "MT003",
+        "probability": 0.02631578947368421
+    },
+    {
+        "failure_code": "MT009",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "MT002",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "L001",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "M014",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "L003",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "L005",
+        "probability": 0.0
+    },
+    {
+        "failure_code": "CS005",
+        "probability": 0.0
+    }
+]
