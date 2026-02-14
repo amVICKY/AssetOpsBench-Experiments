@@ -69,7 +69,7 @@ All new experimental modules must be placed inside:
 /workspace/src/
 
 ### Example:
-/workspace/src/agent_hive/custom_experiment.py
+/workspace/src/agent_hive/workflows/exp4_5.py
   
 ### Run:
 python -m src.agent_hive.custom_experiment
