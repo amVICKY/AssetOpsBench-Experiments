@@ -57,24 +57,21 @@ cd /workspace
 <pre>
 This enables Python to resolve project modules correctly.
 
-Running Experiments
+### Running Experiments
 Sequential Workflow
 python -m src.agent_hive.workflows.sequential
 
-Planning Workflow
+### Planning Workflow
 python -m src.agent_hive.workflows.planning
 
-Official Track-1 Benchmark
-python /home/run_track_1.py
-
-Extending / Custom Experiments
-
+### Extending / Custom Experiments
 All new experimental modules must be placed inside:
 /workspace/src/
 
-Example:
+### Example:
 /workspace/src/agent_hive/custom_experiment.py
-Run:
+  
+### Run:
 python -m src.agent_hive.custom_experiment
 
 No rebuild required unless dependencies change.
